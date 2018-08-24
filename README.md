@@ -1,6 +1,6 @@
 # loadImg
 
-A function to load image from a source string.
+Load image from a source string.
 
 ## Usage
 ```
